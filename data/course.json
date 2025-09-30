@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "7a18617a-b429-11a2-d655-e0b6848ba70a",
+  "instructors": {
+    "content": [
+      "45456919-78d7-992c-22a1-916a3f4cfaae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4997b774-663b-6be3-d358-0a6cd780a4c7",
+    "website": "5-512-synthetic-organic-chemistry-ii-spring-2005"
+  },
+  "course_title": "Synthetic Organic Chemistry II",
+  "hide_download": true,
+  "course_description": "This course focuses on general methods and strategies for the synthesis of complex organic molecules. Emphasis is on strategies for stereoselective synthesis, including stereocontrolled synthesis of complex acyclic compounds.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.512",
+  "course_image_thumbnail": {
+    "content": "682449b5-a618-b590-1f9b-832bc3155de7",
+    "website": "5-512-synthetic-organic-chemistry-ii-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "2b37fc25-3395-4050-a7ca-b73e3aa9ba8e",
+  "site_short_id": "5.512-spring-2005",
+  "site_url_path": "courses/5-512-synthetic-organic-chemistry-ii-spring-2005",
+  "title": "Course Metadata"
+}
